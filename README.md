@@ -32,8 +32,6 @@ Example
 ```Go
 package main
 
-package old
-
 import (
 	"log"
 	"time"
